@@ -1,0 +1,5 @@
+# Exclude .zip files
+*.zip
+
+# Exclude IPython Notebook checkpoints
+.ipynb_checkpoints/
