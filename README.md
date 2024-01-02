@@ -1,7 +1,7 @@
 # ETL_Project_Python_SQL
 ETL project on kaggle food_claims dataset
 
-##Data Sorce
+## Data Sorce
 Kaggle - https://www.kaggle.com/datasets/vyhn00/food-claim?resource=download
 
 ## Python Modules
