@@ -15,5 +15,5 @@ Kaggle - https://www.kaggle.com/datasets/vyhn00/food-claim?resource=download
 * Postgre SQL
 * PgAdmin4
 
-Schema- Music Store Database  
+Schema- ETL Diagram to showcase process of project  
 ![alt text](https://raw.githubusercontent.com/pahujayogesh/Python-SQL-ETL-project-on-Food-Claims-data/main/SQL_Export/food_claims_ETL_digram.jpg)
